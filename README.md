@@ -1,7 +1,10 @@
 # Instagram-API
 Simple Instagram API based on web-version
 
-# Example of usage
+## Simple install by
+`pip3 install ig-web-api`
+
+## Example of usage
 ```python
 from ig-web-api import Instagram
 
